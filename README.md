@@ -1,12 +1,11 @@
 <h1 align="center">Yo, I'm Serj Pagsolingan :)</h1>
-I'm from BSIT-2C and I love coding and solving problems. My agenda here is to learn new stuff that can harness my skill into the next level that no one can surpass.
-HAHAHAHHAA
+I'm from BSIT-2C and I love coding and solving problems. My agenda here is to learn new stuff that can harness my skills on to the next level that no one can surpass like being a lebron in coding.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serjpagsolingan&label=Profile%20views&color=0e75b6&style=flat" alt="serjpagsolingan" /> </p>
 
 - 🌱 I’m currently learning **PHP**
 
-- ⚡ Fun fact **I think I don't have the rights to think bout it.**
+- ⚡ Fun fact: **I think I don't have the rights to think bout it.**
 
 
 <p align="left">
