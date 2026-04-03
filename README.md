@@ -1,5 +1,6 @@
-<h1 align="center">Yo, I'm Serj!</h1>
-s
+<h1 align="center">Yo, I'm Serj Pagsolingan :)</h1>
+I'm from BSIT-2C and I love coding and solving problems. My agenda here is to learn new stuff that can harness my skill into the next level that no one can surpass.
+HAHAHAHHAA
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serjpagsolingan&label=Profile%20views&color=0e75b6&style=flat" alt="serjpagsolingan" /> </p>
 
