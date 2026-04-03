@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I think I don't have the rights to think bout it.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
